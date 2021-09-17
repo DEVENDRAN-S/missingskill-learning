@@ -1,5 +1,5 @@
 # missingskill-learning
-* LINUX
-* GIT
-* BUILDING BLOCK OF WEB DEVELOPMENT
+* LINUX ![linux]
+* GIT ![git]
+* BUILDING BLOCK OF WEB DEVELOPMENT ![bbwd]
 * JAVASCRIPT [JAVASCRIPT](javascript.md)
